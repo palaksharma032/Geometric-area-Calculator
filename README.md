@@ -1,5 +1,5 @@
 ## Geometry Area Calculator
-A lightweight Python Command Line Interface (CLI) tool that calculates the area of common geometric shapes. This was created as a mini-project to practice basic Python logic, user input handling, and the math module. 
+A lightweight Python Command Line Interface (CLI) tool that calculates the area of common geometric shapes. This was created as a mini-project to practice basic Python logic, user input handling, and the math module.
 
 ## Features
 - Square: Calculates area using the length of one side.
